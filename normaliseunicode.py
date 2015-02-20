@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Maïeul ROUQUETTE ; Annette von STOCKHAUSEN
+# Maïeul ROUQUETTE
 # GPL 3
 # https://www.gnu.org/licenses/gpl-3.0.html
 #
