@@ -13,7 +13,6 @@ def normaliser_fichier(fichier):
 	'''Normalise un fichier'''
 	import codecs
 	finale = ''
-	debut_phrase = True
 	file = codecs.open(fichier,encoding='utf-8')
 	for ligne in file:
 		if ligne!='':
